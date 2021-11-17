@@ -14,7 +14,7 @@ export default class HeroSection extends React.Component {
         let bg_img_opacity_pct = _.get(section, 'background_image_opacity', null) || 100;
         let bg_img_opacity = bg_img_opacity_pct * 0.01;
         let bg_img_size = _.get(section, 'background_image_size', null) || 'cover';
-        let bg_img_position = _.get(section, 'background_image_position', "#7ED957) || 'center center';
+        let bg_img_position = _.get(section, 'background_image_position', "#7ED957") || 'center center';
         let bg_img_repeat = _.get(section, 'background_image_repeat', null) || 'no-repeat';
         let has_text = false;
         let has_media = false;
