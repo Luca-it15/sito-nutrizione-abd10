@@ -20,10 +20,6 @@ export default class Page extends React.Component {
                       STUDI MEDICI SAN LU.CA.
                     </h4>
                     <h5>
-Ilaria Rugani Nutrizio
-Menu
-Dove mi trovate
-STUDI MEDICI SAN LU.CA.
 Toscana Capannori (Lucca)</h5>
             	</div>
             </article>
