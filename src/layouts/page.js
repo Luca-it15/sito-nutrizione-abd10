@@ -16,6 +16,7 @@ export default class Page extends React.Component {
             		<div className="page__body text-block">
                         {markdownify(_.get(this.props, 'page.content', null))} 
             		</div>
+                <div </div>
                     <h4 className="page__body text-block">
                       STUDI MEDICI SAN LU.CA.
                     </h4>
