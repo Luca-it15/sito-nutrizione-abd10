@@ -16,13 +16,13 @@ export default class Page extends React.Component {
             		<div className="page__body text-block">
                         {markdownify(_.get(this.props, 'page.content', null))} 
             		</div>
-                <div </div>
-                    <h4 className="page__body text-block">
+                <div className="page__body text-block" 
+                    <h4 >
                       STUDI MEDICI SAN LU.CA.
                     </h4>
                     <h5>Toscana Capannori (Lucca)</h5>
                     <h6>Via Pesciatina, Lunata 60</h6>
-                    
+                </div>
             	</div>
             </article>
             </Layout>
