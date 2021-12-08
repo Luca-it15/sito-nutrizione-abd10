@@ -15,7 +15,7 @@ export default class Page extends React.Component {
             		</header>
             		<div className="page__body text-block">
                         {markdownify(_.get(this.props, 'page.content', null))}
-                        <Link className="navbar__logo m-0" href={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'data.config.header.logo', null))} alt={_.get(this.props, 'data.config.header.logo_alt', null)} /></Link>
+                        <Link className="navbar__logo m-0" href={}><img src={withPrefix(_.get(this.props, 'data.config.header.logo', null))} alt={_.get(this.props, 'data.config.header.logo_alt', null)} /></Link>
             		</div>
             	</div>
             </article>
