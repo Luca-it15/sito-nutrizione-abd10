@@ -20,7 +20,7 @@ export default class Page extends React.Component {
                       STUDI MEDICI SAN LU.CA.
                     </h4>
                     <h5>Toscana Capannori (Lucca)</h5>
-                    <h6
+                    <h6></h6>
             	</div>
             </article>
             </Layout>
