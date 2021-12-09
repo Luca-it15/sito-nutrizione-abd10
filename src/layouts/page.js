@@ -40,7 +40,7 @@ export default class Page extends React.Component {
 
                    <p> 
                       <h4>
-                      STUDI DI PSICOTERAPIA E NUTRIZIONE 
+                      Ambulatori Medici Misericordia Lido di Camaiore
                     </h4>
                     <h5> Fucecchio (Firenze)</h5>
                     <h6>Via Giotto 13</h6>
