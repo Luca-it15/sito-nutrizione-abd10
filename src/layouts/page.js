@@ -31,7 +31,7 @@ export default class Page extends React.Component {
                       <h4>
                       STUDI DI PSICOTERAPIA E NUTRIZIONE 
                     </h4>
-                    <h5> Fucecchio (Lucca)</h5>
+                    <h5> Fucecchio (Firenze)</h5>
                     <h6>Via Pesciatina, Lunata 60</h6>
                   <a href="">
                       <img src="../../images/studimediciSanLuca.png" alt="st
