@@ -34,7 +34,7 @@ export default class Page extends React.Component {
                     <h5> Fucecchio (Firenze)</h5>
                     <h6>Via Giotto 13</h6>
                   <a href="">
-                      <img src="../../images/fucecchio1.jpg" alt="st
+                      <img src="../../images/fucecchio1.jpg" alt="fucecchio"></img>
                    </p>
                 
 
