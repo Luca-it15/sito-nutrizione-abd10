@@ -38,7 +38,7 @@ export default class Page extends React.Component {
                      </a>
                   </p>
 
-                   <p> 
+                   <p className="class_p"> 
                       <h4>
                       Ambulatori Medici Misericordia Lido di Camaiore
                     </h4>
