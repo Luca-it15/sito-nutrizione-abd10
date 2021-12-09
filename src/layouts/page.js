@@ -27,7 +27,6 @@ export default class Page extends React.Component {
                       <img src="../../images/studimedicisanluca1.png" alt="studi medici san luca"  width="80%" height="80%"></img>
                   </a>
                   </p>
-            
                    <p> 
                       <h4>
                       STUDI DI PSICOTERAPIA E NUTRIZIONE 
