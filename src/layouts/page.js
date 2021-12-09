@@ -42,7 +42,7 @@ export default class Page extends React.Component {
                       <h4>
                       Ambulatori Medici Misericordia Lido di Camaiore
                     </h4>
-                    <h5> Fucecchio (Firenze)</h5>
+                    <h5> Lucca (Firenze)</h5>
                     <h6>Via Giotto 13</h6>
                   <a href="">
                       <img src="../../images/fucecchio1.jpg" alt=""></img>
