@@ -32,7 +32,7 @@ export default class Page extends React.Component {
                       STUDI DI PSICOTERAPIA E NUTRIZIONE 
                     </h4>
                     <h5> Fucecchio (Firenze)</h5>
-                    <h6>Via Giotto 13</h6>
+                    <h6 className="class_h6">Via Giotto 13</h6>
                   <a href="https://www.google.it/maps/place/Via+Giotto+di+Bondone,+3,+50054+Fucecchio+FI/@43.7261551,10.8032643,18z/data=!4m5!3m4!1s0x132a6fe335bfab0b:0xf1d1a9d136709671!8m2!3d43.7261295!4d10.8041557">
                       <img src="../../images/fucecchio1.jpg" alt="fucecchio"  width="80%" height="80%"></img>
                      </a>
