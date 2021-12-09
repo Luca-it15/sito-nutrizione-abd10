@@ -29,7 +29,7 @@ export default class Page extends React.Component {
                   </p>
                    <p> 
                       <h4>
-                      Studi medici 
+                      STUDI DI PSICOTERAPIA E NUTRIZIONE 
                     </h4>
                     <h5>Toscana Capannori (Lucca)</h5>
                     <h6>Via Pesciatina, Lunata 60</h6>
