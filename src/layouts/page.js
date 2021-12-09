@@ -27,7 +27,7 @@ export default class Page extends React.Component {
                       <img src="../../images/studimediciSanLuca.png" alt="studi medici san luca"></img>
                   </a>
                   </p>
-                   <p> 
+                   <p> </p>
                 
 
 
