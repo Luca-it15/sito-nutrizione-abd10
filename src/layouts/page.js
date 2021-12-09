@@ -45,7 +45,7 @@ export default class Page extends React.Component {
                     <h5> Lucca (Lucca)</h5>
                     <h6>Via del Secco, Camaiore 81</h6>
                   <a href="">
-                      <img src="../../images/fucec1.jpg" alt=""></img>
+                      <img src="../../images/Lucca1.jpg" alt=""></img>
                      </a>
                   </p>
                 
