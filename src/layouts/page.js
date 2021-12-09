@@ -33,7 +33,7 @@ export default class Page extends React.Component {
                     </h4>
                     <h5>Toscana Capannori (Lucca)</h5>
                     <h6>Via Pesciatina, Lunata 60</h6>
-                  <a href="243.855064!4d10.5613496">
+                  <a href="">
                       <img src="../../images/studimediciSanLuca.png" alt="st
                    </p>
                 
