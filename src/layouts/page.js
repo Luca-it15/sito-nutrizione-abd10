@@ -38,8 +38,6 @@ export default class Page extends React.Component {
                      </a>
                   </p>
                 
-
-
                 </div>
             </div>
             </article>
